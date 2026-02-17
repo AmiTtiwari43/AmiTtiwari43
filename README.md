@@ -129,41 +129,56 @@ graph TD
 
 Detailed mapping of core business logic and data movement across my major platforms.
 
-### 📅 Booking & Payment Lifecycle (EventEase Lite)
-This flow demonstrates the complex state management and concurrency controls integrated into the booking engine.
+### 📅 Secure Appointment & Payment Pipeline (DocVerse)
+Visualizing the multi-stage handshake between the client, authentication layer, and secure persistence.
 
 ```mermaid
-stateDiagram-v2
-    [*] --> Pending: User Browses & Selects Service
-    Pending --> AwaitingAdmin: Booking Request Sent
-    AwaitingAdmin --> Confirmed: Admin Approval
-    AwaitingAdmin --> Cancelled: Admin Rejection
-    Confirmed --> PaymentPending: Waiting for User Payment
-    PaymentPending --> Paid: UPI QR Code Scanned & Confirmed
-    Paid --> Completed: Event Date Passed
-    Paid --> RefundRequested: User Requests Refund
-    RefundRequested --> RefundSuccess: Admin Processes Refund
+sequenceDiagram
+    participant User as Patient (React)
+    participant Auth as Auth Middleware (JWT)
+    participant API as Booking Controller (Express)
+    participant DB as MongoDB (Mongoose)
+    participant Pay as UPI Provider
     
-    Cancelled --> [*]
-    Completed --> [*]
-    RefundSuccess --> [*]
+    User->>API: 1. Request Slot (SlotID, DoctorID)
+    API->>DB: 2. Verify Availability (Atomic Check)
+    DB-->>API: Slot Available
+    API-->>User: 3. Return Payment QR
+    User->>Pay: 4. Scan & Transact
+    Pay-->>User: Success
+    User->>Auth: 5. Submit TransactionID (JWT Token)
+    Auth->>API: Validated Session
+    API->>DB: 6. Persist Appointment (Status: Confirmed)
+    DB-->>API: Saved
+    API-->>User: 7. Digital Receipt & Confirmation
 ```
 
-### 🧠 AI-Driven Health Triage (Doctor Management)
-Visualizing the data flow between the user interface, the AI logic layer, and the secure persistence layer.
+### 🧠 End-to-End AI Health Triage (AIChatWidget)
+Demonstrating the data flow from symptom analysis to professional discovery.
 
 ```mermaid
-graph LR
-    Input[User Health Query] --> AI["AI Assistant (NLP)"]
-    AI --> Logic{Context Awareness}
-    Logic --> Recommend[Health Recommendations]
-    Logic --> Search[Suggest Medical Specialists]
-    Search --> DocList[Doctor Results / Availability]
-    DocList --> Auth[JWT Security Check]
-    Auth --> Book[Appointment Persistence]
+graph TD
+    A[User Symptom Input] --> B{NLP Analysis Engine}
+    B -->|Symptom Extraction| C[Context Awareness Layer]
+    C -->|Pattern Matching| D[AI Recommendation Engine]
+    D -->|Specialization Mapping| E[Specific Medical Category]
+    E --> F[Mongoose Aggregation Query]
+    F --> G[Filtered Doctor Discovery]
+    G --> H[Patient Booking Interface]
+
+    subgraph "Logic Layer"
+        B
+        C
+        D
+    end
     
-    style AI fill:#bbf,stroke:#333,stroke-width:2px
-    style Auth fill:#f96,stroke:#333,stroke-width:2px
+    subgraph "Persistence"
+        F
+    end
+
+    style B fill:#f9f,stroke:#333,stroke-width:2px
+    style D fill:#bbf,stroke:#333,stroke-width:2px
+    style G fill:#f96,stroke:#333,stroke-width:2px
 ```
 
 ---
