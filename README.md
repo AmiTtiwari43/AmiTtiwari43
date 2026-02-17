@@ -218,11 +218,7 @@ graph TD
 
 <br/>
 
-| ⏱ WakaTime Coding Stats |
-| :--- |
-| <!-- Replace YOUR_USERNAME if it differs from AmiTtiwari43 --> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AmiTtiwari43&theme=tokyonight&hide_border=true" width="100%"/> |
 
-<br/>
 
 ## 🏆 Competitive Programming
 <div align="center">
