@@ -21,9 +21,8 @@
 
 # 👨‍💻 About Me
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmiTtiwari43&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="trophies" />
-</div>
+<br/>
+
 
 ```yaml
 Name: Amit Tiwari
@@ -187,10 +186,11 @@ graph TD
 
 ### 🐍 Contribution Snake
 <div align="center"> 
+  <!-- If this image is broken, you need to: 1. Push changes 2. Go to Actions > Generate Snake > Run workflow -->
   <picture> 
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmiTtiwari43/AmiTtiwari43/output/github-snake-dark.svg" /> 
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmiTtiwari43/AmiTtiwari43/output/github-snake.svg" /> 
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/AmiTtiwari43/AmiTtiwari43/output/github-snake-dark.svg" width="100%"> 
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AmiTtiwari43/AmiTtiwari43/raw/output/github-snake-dark.svg" /> 
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AmiTtiwari43/AmiTtiwari43/raw/output/github-snake.svg" /> 
+    <img alt="github contribution snake" src="https://github.com/AmiTtiwari43/AmiTtiwari43/raw/output/github-snake-dark.svg" width="100%"> 
   </picture> 
 </div>
 
@@ -220,7 +220,7 @@ graph TD
 
 | ⏱ WakaTime Coding Stats |
 | :--- |
-| <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AmiTtiwari43&theme=tokyonight&hide_border=true" width="100%"/> |
+| <!-- Replace YOUR_USERNAME if it differs from AmiTtiwari43 --> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AmiTtiwari43&theme=tokyonight&hide_border=true" width="100%"/> |
 
 <br/>
 
