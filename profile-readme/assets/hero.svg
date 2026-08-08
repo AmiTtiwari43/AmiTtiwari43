@@ -1,0 +1,164 @@
+<svg viewBox="0 0 753 936" xmlns="http://www.w3.org/2000/svg" font-size="12.9"><style>
+      @font-face { font-family:'ramp'; src:url(data:font/woff2;base64,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) format('woff2'); }
+      text { font-family:'ramp', 'JetBrains Mono', monospace; }
+      .big { font-size: 44px; font-weight: 700; fill: #e8e2d4; }
+      .lbl { font-size: 12px; fill: #8a8578; letter-spacing: 0.02em; }
+      .stat { font-size: 22px; font-weight: 700; fill: #e8e2d4; }
+      .link { font-size: 12px; fill: #c9a24b; }
+      .sep { font-size: 12px; fill: #8a8578; }
+    </style><rect width="753" height="936" fill="#0a0a0c"/><clipPath id="pc0"><rect x="28" y="27.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.0s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="40.0" fill="#e8e2d4" clip-path="url(#pc0)" xml:space="preserve">           *ss*++-:::-:+c###%%%%%%%@%%%%@@@%%@@@@@%%%%%%#%%%%@@%s+                        </text><clipPath id="pc1"><rect x="28" y="42.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.055s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="55.0" fill="#e8e2d4" clip-path="url(#pc1)" xml:space="preserve">           ssc+=-`:--*c#%%%%%%@@%%%@@@@%%%@@@@@@@@@%%%%%%%%#:-=+*:                        </text><clipPath id="pc2"><rect x="28" y="57.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.11s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="70.0" fill="#e8e2d4" clip-path="url(#pc2)" xml:space="preserve">           -s*=--*c##%%%@%%%%%%%%%%%@%%%%%%%%%%%%%%@@%@%%%@%s=:++.                        </text><clipPath id="pc3"><rect x="28" y="72.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.165s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="85.0" fill="#e8e2d4" clip-path="url(#pc3)" xml:space="preserve">           .c*c##%%%%%@@@%@@@@%%%%%%%@%%@@%%%%%%%%%%%%@@@@@@%%%#s+:.                      </text><clipPath id="pc4"><rect x="28" y="87.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.22s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="100.0" fill="#e8e2d4" clip-path="url(#pc4)" xml:space="preserve">           :*s%%%%%%%@%@@@@@@@%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@%%%#+.                    </text><clipPath id="pc5"><rect x="28" y="102.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.275s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="115.0" fill="#e8e2d4" clip-path="url(#pc5)" xml:space="preserve">           =cs%%%###%@@@@@@@%%%%%%%%%%%%%%%%%%%%%@%%%%%%@@@@@@@@@%@%%s:                   </text><clipPath id="pc6"><rect x="28" y="117.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.33s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="130.0" fill="#e8e2d4" clip-path="url(#pc6)" xml:space="preserve">         .*ss##%%%%%%@@@@%%%%%%%%@@%@%@@@@@@@@@@@@@@@%%%%@@@@@@@@@@@%%%+.                 </text><clipPath id="pc7"><rect x="28" y="132.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.385s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="145.0" fill="#e8e2d4" clip-path="url(#pc7)" xml:space="preserve">         +scs%@%#%@@@@@%%%%@@@@@@@@@%%%#%%%%%%%%%%%%%%%@@%@@@@@@@@@@@@@%c                 </text><clipPath id="pc8"><rect x="28" y="147.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.44s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="160.0" fill="#e8e2d4" clip-path="url(#pc8)" xml:space="preserve">        :sss#%#%@@%%@@@%%@@@@@@@@@@@%#scssssss###########%%@@@@@@@@@@@@%c.                </text><clipPath id="pc9"><rect x="28" y="162.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.495s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="175.0" fill="#e8e2d4" clip-path="url(#pc9)" xml:space="preserve">       .s%%##%%@@@%%@@@@@@@@@@@@@@%%#sc**++=+**ccsssc*+*ccs#%%%@@@@@@@%#.                 </text><clipPath id="pc10"><rect x="28" y="177.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.55s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="190.0" fill="#e8e2d4" clip-path="url(#pc10)" xml:space="preserve">       `##%%%%%%@@%%@@@%%###%%#####sc**+=========++***++*+**s#%@@@@@@@@%.                 </text><clipPath id="pc11"><rect x="28" y="192.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.605s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="205.0" fill="#e8e2d4" clip-path="url(#pc11)" xml:space="preserve">        `s%@@@@@@@@@@@@%##ssscc******++===-===++***cccccc*++*s#%@@%%@@@%:                 </text><clipPath id="pc12"><rect x="28" y="207.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.66s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="220.0" fill="#e8e2d4" clip-path="url(#pc12)" xml:space="preserve">         :#%@@@@@@@@@@@%%##sc**+===++===------=+**ccscc**++=+*s#%@@%%@@%*                 </text><clipPath id="pc13"><rect x="28" y="222.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.715s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="235.0" fill="#e8e2d4" clip-path="url(#pc13)" xml:space="preserve">          *#%@@@@@@@@%%%%#c*+=---======--:::::-==++**+++**+==-=*#%@@%%%%-                 </text><clipPath id="pc14"><rect x="28" y="237.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.77s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="250.0" fill="#e8e2d4" clip-path="url(#pc14)" xml:space="preserve">          =%@@@@@@%##sc*+++=-::::--====::::`:::-====++*****+-:`:+#%%@%%%`                 </text><clipPath id="pc15"><rect x="28" y="252.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.825s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="265.0" fill="#e8e2d4" clip-path="url(#pc15)" xml:space="preserve">          `#%%#@@@#c+=------:```:::===:--:::---=+***cs##ssc*=-```+%%@@%%`                 </text><clipPath id="pc16"><rect x="28" y="267.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.88s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="280.0" fill="#e8e2d4" clip-path="url(#pc16)" xml:space="preserve">           +#c*#%%*=----==-:::-==+++*=-*s**+****cs#%@@@%##%##*:``:c%%@%s                  </text><clipPath id="pc17"><rect x="28" y="282.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.935s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="295.0" fill="#e8e2d4" clip-path="url(#pc17)" xml:space="preserve">            -**s%#+++*ccccccc***cc#%#*+#%ss%%%###sss#%@@%%##@%c:::=%@@@*-:.               </text><clipPath id="pc18"><rect x="28" y="297.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="0.99s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="310.0" fill="#e8e2d4" clip-path="url(#pc18)" xml:space="preserve">              .-c######sssssssssss**#sss+%@@@@%%%#sss#@@@@%%###+--=s@@%sc#c.              </text><clipPath id="pc19"><rect x="28" y="312.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.045s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="325.0" fill="#e8e2d4" clip-path="url(#pc19)" xml:space="preserve">               c#%%@@@@%%%@%%%%%%%s#%*+c*%@@@@@@@@%%%%@@@%%%%%%#---*%#*=+#s`              </text><clipPath id="pc20"><rect x="28" y="327.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.1s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="340.0" fill="#e8e2d4" clip-path="url(#pc20)" xml:space="preserve">              .%%%%%@@@@@%@@@@@@@@s%+::-*s@@@@@@@%%%%%@@@@@@@@@@+-:=#%c+-*c`              </text><clipPath id="pc21"><rect x="28" y="342.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.155s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="355.0" fill="#e8e2d4" clip-path="url(#pc21)" xml:space="preserve">              .#%%%%@@@@@@@%%%%@@##s:.`-+ss%@%%%%%%@@@@@@@@@@@@%+::-c%%sc=*`              </text><clipPath id="pc22"><rect x="28" y="357.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.21s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="370.0" fill="#e8e2d4" clip-path="url(#pc22)" xml:space="preserve">               c%@@@@@@@%%%%%@@@%ss-``:=*sscs%@@@@@@@@@@@@@@@@@#=---*%%%#**:              </text><clipPath id="pc23"><rect x="28" y="372.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.265s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="385.0" fill="#e8e2d4" clip-path="url(#pc23)" xml:space="preserve">               `#%%%%%###%%@@@@%ss=:..`-=*csc#%@@@@@@@@@@@@@@@#+---=c%@%#*s`              </text><clipPath id="pc24"><rect x="28" y="387.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.32s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="400.0" fill="#e8e2d4" clip-path="url(#pc24)" xml:space="preserve">                `s#####%%@@@@@#s#*:...`:-=+ss#%##%@@@@@@@@@%s*+=--=+*%%**#*.              </text><clipPath id="pc25"><rect x="28" y="402.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.375s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="415.0" fill="#e8e2d4" clip-path="url(#pc25)" xml:space="preserve">                 .+c#%@@@@@@####c-`````-----=*##c*cs####ss*+==--==++s%%c++:               </text><clipPath id="pc26"><rect x="28" y="417.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.43s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="430.0" fill="#e8e2d4" clip-path="url(#pc26)" xml:space="preserve">                  .==+*cssscscc*=:++===+*s#sc+ss+=----=====---==++=+s##c=-.               </text><clipPath id="pc27"><rect x="28" y="432.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.485s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="445.0" fill="#e8e2d4" clip-path="url(#pc27)" xml:space="preserve">                   ----========-:=sc**cs##ssssc+==+======-----=++=-+c#s+-.                </text><clipPath id="pc28"><rect x="28" y="447.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.54s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="460.0" fill="#e8e2d4" clip-path="url(#pc28)" xml:space="preserve">                   `-------==-:```:=***cc####c+===******++=-===+===+c#:                   </text><clipPath id="pc29"><rect x="28" y="462.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.595s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="475.0" fill="#e8e2d4" clip-path="url(#pc29)" xml:space="preserve">                   .=-----==-::::-=css#scs#%%%#####%%#ss*+====+===+*s#.                   </text><clipPath id="pc30"><rect x="28" y="477.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.65s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="490.0" fill="#e8e2d4" clip-path="url(#pc30)" xml:space="preserve">                    :--:--===*sss*******++s##sscs#%@@@@%c+==++++*+*c#s                    </text><clipPath id="pc31"><rect x="28" y="492.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.705s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="505.0" fill="#e8e2d4" clip-path="url(#pc31)" xml:space="preserve">                    .=-::--+#%%#ccssss#s#%%%%%%%%@%##s##*-=+*cscccc#%*                    </text><clipPath id="pc32"><rect x="28" y="507.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.76s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="520.0" fill="#e8e2d4" clip-path="url(#pc32)" xml:space="preserve">                     =+----+s#%%%##c****c*ccssc**=-::-*c+=-=+*ccss#%%*`..                 </text><clipPath id="pc33"><rect x="28" y="522.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.815s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="535.0" fill="#e8e2d4" clip-path="url(#pc33)" xml:space="preserve">                     .**+===*+=-==+++=-:--=*c**=:```:-=++==++*cs##%%c#@@@%s*=`            </text><clipPath id="pc34"><rect x="28" y="537.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.87s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="550.0" fill="#e8e2d4" clip-path="url(#pc34)" xml:space="preserve">                      .cs*+++=-::::=+*css##ss*+-:::-==+++++*cc#%@@%c-c@@@@@@%%s+:.        </text><clipPath id="pc35"><rect x="28" y="552.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.925s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="565.0" fill="#e8e2d4" clip-path="url(#pc35)" xml:space="preserve">                       .ssc*+==---===*c#%%%sc*+=-======++*cs#%%@@%c=-+%@@@@@%%%%s*`       </text><clipPath id="pc36"><rect x="28" y="567.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="1.98s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="580.0" fill="#e8e2d4" clip-path="url(#pc36)" xml:space="preserve">                      ..:#%#c+=--==--:--*sc*=--::::::-=*cs#%@@@%s+===+#@@@@@@@%%#s*:      </text><clipPath id="pc37"><rect x="28" y="582.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="2.035s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="595.0" fill="#e8e2d4" clip-path="url(#pc37)" xml:space="preserve">               ..`:-=+*ssc#%%s+=--::```:+s*++--:-----=cs%%@@@%#s*===+*%@@@@@@@%%#s*+`     </text><clipPath id="pc38"><rect x="28" y="597.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="2.09s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="610.0" fill="#e8e2d4" clip-path="url(#pc38)" xml:space="preserve">            .:=+++=-:::-+s%###%s*******cs##sssccssccs#%@@@@%%#sc++++*#%@@@@@@@%#sc*+`     </text><clipPath id="pc39"><rect x="28" y="612.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="2.145s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="625.0" fill="#e8e2d4" clip-path="url(#pc39)" xml:space="preserve">          .=*css####s*-`:`:++ss#@%%%%%%%%@@%%%%%%%%%@@@@%%%###sc*+*c#%@@@@@@@%%#c*+=-     </text><clipPath id="pc40"><rect x="28" y="627.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="2.2s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="640.0" fill="#e8e2d4" clip-path="url(#pc40)" xml:space="preserve">        .`=-:--=*c#%%%##-`:+c+:+*@@@@@@@@@@@@@@@@@@@@@%%####sscc**s#%@@@@@@@%%#sc++=+`    </text><clipPath id="pc41"><rect x="28" y="642.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="2.255s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="655.0" fill="#e8e2d4" clip-path="url(#pc41)" xml:space="preserve">       .-:`:-:`:``-+ss@@#+*c:-c=+%sc#%@@@@@@@@@@@@%%%####sscccccss%%@@@@@@%%##sc**+++=    </text><clipPath id="pc42"><rect x="28" y="657.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="2.31s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="670.0" fill="#e8e2d4" clip-path="url(#pc42)" xml:space="preserve">      .cccs##**-`::`.-##+cc-:+s-c##::=*css#%%%%%%%%##sscc****ccs#%%@@@@@@%%%##sccc****`   </text><clipPath id="pc43"><rect x="28" y="672.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="2.365s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="685.0" fill="#e8e2d4" clip-path="url(#pc43)" xml:space="preserve">     .+#s#%@##%scc-.`--+sc-==:*scs=`::-=++*c##%%%%#ssc*+++**cs##%%@@@@@##%##sssssssssc:   </text><clipPath id="pc44"><rect x="28" y="687.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="2.42s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="700.0" fill="#e8e2d4" clip-path="url(#pc44)" xml:space="preserve">    .-*s**ccc%#c#%#*c--c*=*c:++s+`:++::-=*cs######sc++=++ccs##%%%@@@@sc##ssscccs#####c    </text><clipPath id="pc45"><rect x="28" y="702.1" width="0" height="15.0">
+<animate attributeName="width" from="0" to="696.6" dur="0.4s" begin="2.475s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</rect></clipPath>
+<text x="28" y="715.0" fill="#e8e2d4" clip-path="url(#pc45)" xml:space="preserve">    -+*+-==:-=-*#%c#@#*=*#s=-+c=*s#%%+-=++**cssccc*=-==+*s##%%%%%%@#+c##sc***cs#%%%%+.    </text><clipPath id="bigwipe"><rect x="28" y="708.0" width="0" height="54">
+<animate attributeName="width" from="0" to="81" dur="0.5s" begin="3.03s" fill="freeze"/>
+</rect></clipPath>
+<text x="28" y="752.0" class="big" clip-path="url(#bigwipe)">913</text>
+<text x="28" y="772.0" class="lbl" opacity="0">contributions in the last year
+<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.3299999999999996s" fill="freeze"/>
+</text><text x="725" y="728.0" text-anchor="end" class="stat" opacity="0">187
+<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.1799999999999997s" fill="freeze"/></text>
+<text x="725" y="744.0" text-anchor="end" class="lbl" opacity="0">active days
+<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.1799999999999997s" fill="freeze"/></text>
+<text x="725" y="770.0" text-anchor="end" class="stat" opacity="0">41
+<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.3299999999999996s" fill="freeze"/></text>
+<text x="725" y="786.0" text-anchor="end" class="lbl" opacity="0">best week
+<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.3299999999999996s" fill="freeze"/></text><path d="M 28.0 841.4 L 64.7 839.1 L 101.4 832.2 L 138.1 836.8 L 174.7 827.6 L 211.4 829.9 L 248.1 823.0 L 284.8 818.4 L 321.5 825.3 L 358.2 813.8 L 394.8 820.7 L 431.5 809.2 L 468.2 816.1 L 504.9 804.6 L 541.6 811.5 L 578.3 800.0 L 614.9 818.4 L 651.6 806.9 L 688.3 823.0 L 725.0 813.8" fill="none" stroke="#e8e2d4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"
+  pathLength="1000" stroke-dasharray="1000" stroke-dashoffset="1000">
+<animate attributeName="stroke-dashoffset" from="1000" to="0" dur="0.9s" begin="3.53s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+</path><text x="376.5" y="920" text-anchor="middle" class="link" opacity="0">github.com/AmiTtiwari43  ·  linkedin  ·  leetcode  ·  email
+<animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="4.2299999999999995s" fill="freeze"/></text></svg>

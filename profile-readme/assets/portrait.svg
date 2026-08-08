@@ -1,0 +1,330 @@
+<svg viewBox="0 0 717 710" xmlns="http://www.w3.org/2000/svg" font-size="12.9">
+    <style>
+      @font-face {
+        font-family: 'ramp';
+        src: url(data:font/woff2;base64,d09GMgABAAAAAAToAA4AAAAACXwAAASWAAJOFAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbIBwqBmAAgQwRCAqIGIZQATYCJAM8CyAABCAFhCYHIBufB1GUME4nxM8Em867Ag+hEAiRpkaOxBV2pttdlSOFwg/wJB7+OXy972WNCRhbi9b2icEf7QZthCPcU1xWr/0x/23qJ6lCXYioUFWsIkaYK9trT3P1294Op2Ep18uzTViW//kAPs8x0/1F0mwaaRvYcDzCUbZVUAU1VT/fGw/3Btp3zXdUIKUNdqBneWxewpZqx/9BtvUGBJoBIaQQAo2GZYHWNspwEKYaKv8BgUaz5HiUzaLu79hhkEKEy6uTjm9qyA9JA3arh+OaMT+QNHiVwwfYOXTcFTAusGL5BdWfYwIBOZvvMC4EiSp04wt0C/IC6BeDr944EQkVLScPv1YdAg+jCiXNf1D564ffoXLfI3cdssl4AeiUwAVrNW4SOwTanCoY/b1uINaAeEP9hsNggq1mGN+wovku1gxXB8lbI9ASlTRyt6C2Byx/FdDr6ybu5RG87VXj8hfMfdnEvZ5CXrwwx5DCw6ZQ/jjmkeStV1xtkJmA1z1qhD88KM4nXoLCi0ZnuWS1XD5WL4K5F3qainQlRVLrry/tujVbfSZi592ZddsgqMncLSm7789RBL7jxvTeqwMETq67NrjmSj9CwRCwEJwFYDpMWRtsWxqgSG3LX/2A+KvnyMIL47dk7g4g0GtAphD13HVvuaQ7/wIAc6+eQHA0RRMEbCBrK5Q1LH81BW176BNg3ekA0tvAXe7mudhFIQf0H5tPrLnYTyKEKbxzykj7qnZ8wZ0tbBePqhdjdrurIMe72luQ67JjDlE9j2K7QGJoY2dNWb203qA2DsgL/WGrE6d4ynxF7dWUuqqzwteQIVGotQ6xs3BlPBc/Ud6JNwJVuOS+SPJQcm4T3QdL6xWrhcLVijwv39l+CHCkO0/vb7x63XT8c2+/LL1iQBY8bai4IH4WPiueLJ7Vlzig19iKkj4fN704wtXyb9N0JP3s2bSjoFb6lMLaBcfbsMGGpSBbt1RaaH2GuC3pLW4BnKDKXwXyjhOzCvLm0/iS8XWzmfnzmegKor6kmKQK2ZL8Kr+iheMVEHhdVX1HoBfv7GeahkuFGumEapJ6k1S6Wc2qJsD/5uuXqy5fP5Uqh2urDlUd/IuyYM24v6QoEou0+x+CN3l//N/bkqsRe54lysayRVmXF3tDsXi5pFKiN+HLyxIWRnbm+40SgpyFDNc5xAlOnZakAYm3XBRsVQcIedD9/qF+w03byv/6Nv4f+AWf/gd/3nV831F+zlL1Z9RKEPw8PHlKoFcatB0Hvam2pNUDaBAAeIe3EEOEFdA4MRo3ivLOH2wTaIszHi1RK0htlUCd80ZTdTjgnSgMwy4IU6ufwiorfgmrLScU1jjs4H61Fttm1YhR0zD69OjFQhnpwY/CleiylpS3xsrBaNNnWACq3IhhI1BVGCP6denAQmEmYfUawQhAyfVisUYFOOno9OgjpSZpp+248YghOhO1VpumHl+xMH+NLi8/yaA2DKO0iZ6Fa9EcrqGHaLq3L8PQGCR1fba9jzKITm1HtyHYrW2DgiN6xc4W/2QGstUOMEvbaFh0LqmdYrFBfLd6lS5GQAA=) format('woff2');
+      }
+      text { font-family: 'ramp', monospace; }
+    </style><rect width="717" height="710" fill="#0a0a0c"/>
+  <clipPath id="clip0">
+    <rect x="10" y="7.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="0.0s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="20.0" fill="#e8e2d4" clip-path="url(#clip0)" xml:space="preserve">           *ss*++-:::-:+c###%%%%%%%@%%%%@@@%%@@@@@%%%%%%#%%%%@@%s+                        </text>
+  <clipPath id="clip1">
+    <rect x="10" y="22.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="0.09s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="35.0" fill="#e8e2d4" clip-path="url(#clip1)" xml:space="preserve">           ssc+=-`:--*c#%%%%%%@@%%%@@@@%%%@@@@@@@@@%%%%%%%%#:-=+*:                        </text>
+  <clipPath id="clip2">
+    <rect x="10" y="37.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="0.18s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="50.0" fill="#e8e2d4" clip-path="url(#clip2)" xml:space="preserve">           -s*=--*c##%%%@%%%%%%%%%%%@%%%%%%%%%%%%%%@@%@%%%@%s=:++.                        </text>
+  <clipPath id="clip3">
+    <rect x="10" y="52.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="0.27s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="65.0" fill="#e8e2d4" clip-path="url(#clip3)" xml:space="preserve">           .c*c##%%%%%@@@%@@@@%%%%%%%@%%@@%%%%%%%%%%%%@@@@@@%%%#s+:.                      </text>
+  <clipPath id="clip4">
+    <rect x="10" y="67.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="0.36s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="80.0" fill="#e8e2d4" clip-path="url(#clip4)" xml:space="preserve">           :*s%%%%%%%@%@@@@@@@%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@@@@%%%#+.                    </text>
+  <clipPath id="clip5">
+    <rect x="10" y="82.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="0.45s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="95.0" fill="#e8e2d4" clip-path="url(#clip5)" xml:space="preserve">           =cs%%%###%@@@@@@@%%%%%%%%%%%%%%%%%%%%%@%%%%%%@@@@@@@@@%@%%s:                   </text>
+  <clipPath id="clip6">
+    <rect x="10" y="97.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="0.54s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="110.0" fill="#e8e2d4" clip-path="url(#clip6)" xml:space="preserve">         .*ss##%%%%%%@@@@%%%%%%%%@@%@%@@@@@@@@@@@@@@@%%%%@@@@@@@@@@@%%%+.                 </text>
+  <clipPath id="clip7">
+    <rect x="10" y="112.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="0.63s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="125.0" fill="#e8e2d4" clip-path="url(#clip7)" xml:space="preserve">         +scs%@%#%@@@@@%%%%@@@@@@@@@%%%#%%%%%%%%%%%%%%%@@%@@@@@@@@@@@@@%c                 </text>
+  <clipPath id="clip8">
+    <rect x="10" y="127.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="0.72s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="140.0" fill="#e8e2d4" clip-path="url(#clip8)" xml:space="preserve">        :sss#%#%@@%%@@@%%@@@@@@@@@@@%#scssssss###########%%@@@@@@@@@@@@%c.                </text>
+  <clipPath id="clip9">
+    <rect x="10" y="142.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="0.81s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="155.0" fill="#e8e2d4" clip-path="url(#clip9)" xml:space="preserve">       .s%%##%%@@@%%@@@@@@@@@@@@@@%%#sc**++=+**ccsssc*+*ccs#%%%@@@@@@@%#.                 </text>
+  <clipPath id="clip10">
+    <rect x="10" y="157.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="170.0" fill="#e8e2d4" clip-path="url(#clip10)" xml:space="preserve">       `##%%%%%%@@%%@@@%%###%%#####sc**+=========++***++*+**s#%@@@@@@@@%.                 </text>
+  <clipPath id="clip11">
+    <rect x="10" y="172.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="0.99s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="185.0" fill="#e8e2d4" clip-path="url(#clip11)" xml:space="preserve">        `s%@@@@@@@@@@@@%##ssscc******++===-===++***cccccc*++*s#%@@%%@@@%:                 </text>
+  <clipPath id="clip12">
+    <rect x="10" y="187.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="1.08s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="200.0" fill="#e8e2d4" clip-path="url(#clip12)" xml:space="preserve">         :#%@@@@@@@@@@@%%##sc**+===++===------=+**ccscc**++=+*s#%@@%%@@%*                 </text>
+  <clipPath id="clip13">
+    <rect x="10" y="202.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="1.17s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="215.0" fill="#e8e2d4" clip-path="url(#clip13)" xml:space="preserve">          *#%@@@@@@@@%%%%#c*+=---======--:::::-==++**+++**+==-=*#%@@%%%%-                 </text>
+  <clipPath id="clip14">
+    <rect x="10" y="217.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="1.26s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="230.0" fill="#e8e2d4" clip-path="url(#clip14)" xml:space="preserve">          =%@@@@@@%##sc*+++=-::::--====::::`:::-====++*****+-:`:+#%%@%%%`                 </text>
+  <clipPath id="clip15">
+    <rect x="10" y="232.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="1.35s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="245.0" fill="#e8e2d4" clip-path="url(#clip15)" xml:space="preserve">          `#%%#@@@#c+=------:```:::===:--:::---=+***cs##ssc*=-```+%%@@%%`                 </text>
+  <clipPath id="clip16">
+    <rect x="10" y="247.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="1.44s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="260.0" fill="#e8e2d4" clip-path="url(#clip16)" xml:space="preserve">           +#c*#%%*=----==-:::-==+++*=-*s**+****cs#%@@@%##%##*:``:c%%@%s                  </text>
+  <clipPath id="clip17">
+    <rect x="10" y="262.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="1.53s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="275.0" fill="#e8e2d4" clip-path="url(#clip17)" xml:space="preserve">            -**s%#+++*ccccccc***cc#%#*+#%ss%%%###sss#%@@%%##@%c:::=%@@@*-:.               </text>
+  <clipPath id="clip18">
+    <rect x="10" y="277.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="1.62s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="290.0" fill="#e8e2d4" clip-path="url(#clip18)" xml:space="preserve">              .-c######sssssssssss**#sss+%@@@@%%%#sss#@@@@%%###+--=s@@%sc#c.              </text>
+  <clipPath id="clip19">
+    <rect x="10" y="292.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="1.71s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="305.0" fill="#e8e2d4" clip-path="url(#clip19)" xml:space="preserve">               c#%%@@@@%%%@%%%%%%%s#%*+c*%@@@@@@@@%%%%@@@%%%%%%#---*%#*=+#s`              </text>
+  <clipPath id="clip20">
+    <rect x="10" y="307.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="1.8s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="320.0" fill="#e8e2d4" clip-path="url(#clip20)" xml:space="preserve">              .%%%%%@@@@@%@@@@@@@@s%+::-*s@@@@@@@%%%%%@@@@@@@@@@+-:=#%c+-*c`              </text>
+  <clipPath id="clip21">
+    <rect x="10" y="322.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="1.89s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="335.0" fill="#e8e2d4" clip-path="url(#clip21)" xml:space="preserve">              .#%%%%@@@@@@@%%%%@@##s:.`-+ss%@%%%%%%@@@@@@@@@@@@%+::-c%%sc=*`              </text>
+  <clipPath id="clip22">
+    <rect x="10" y="337.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="1.98s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="350.0" fill="#e8e2d4" clip-path="url(#clip22)" xml:space="preserve">               c%@@@@@@@%%%%%@@@%ss-``:=*sscs%@@@@@@@@@@@@@@@@@#=---*%%%#**:              </text>
+  <clipPath id="clip23">
+    <rect x="10" y="352.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="2.07s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="365.0" fill="#e8e2d4" clip-path="url(#clip23)" xml:space="preserve">               `#%%%%%###%%@@@@%ss=:..`-=*csc#%@@@@@@@@@@@@@@@#+---=c%@%#*s`              </text>
+  <clipPath id="clip24">
+    <rect x="10" y="367.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="2.16s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="380.0" fill="#e8e2d4" clip-path="url(#clip24)" xml:space="preserve">                `s#####%%@@@@@#s#*:...`:-=+ss#%##%@@@@@@@@@%s*+=--=+*%%**#*.              </text>
+  <clipPath id="clip25">
+    <rect x="10" y="382.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="2.25s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="395.0" fill="#e8e2d4" clip-path="url(#clip25)" xml:space="preserve">                 .+c#%@@@@@@####c-`````-----=*##c*cs####ss*+==--==++s%%c++:               </text>
+  <clipPath id="clip26">
+    <rect x="10" y="397.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="2.34s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="410.0" fill="#e8e2d4" clip-path="url(#clip26)" xml:space="preserve">                  .==+*cssscscc*=:++===+*s#sc+ss+=----=====---==++=+s##c=-.               </text>
+  <clipPath id="clip27">
+    <rect x="10" y="412.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="2.43s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="425.0" fill="#e8e2d4" clip-path="url(#clip27)" xml:space="preserve">                   ----========-:=sc**cs##ssssc+==+======-----=++=-+c#s+-.                </text>
+  <clipPath id="clip28">
+    <rect x="10" y="427.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="2.52s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="440.0" fill="#e8e2d4" clip-path="url(#clip28)" xml:space="preserve">                   `-------==-:```:=***cc####c+===******++=-===+===+c#:                   </text>
+  <clipPath id="clip29">
+    <rect x="10" y="442.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="2.61s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="455.0" fill="#e8e2d4" clip-path="url(#clip29)" xml:space="preserve">                   .=-----==-::::-=css#scs#%%%#####%%#ss*+====+===+*s#.                   </text>
+  <clipPath id="clip30">
+    <rect x="10" y="457.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="2.7s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="470.0" fill="#e8e2d4" clip-path="url(#clip30)" xml:space="preserve">                    :--:--===*sss*******++s##sscs#%@@@@%c+==++++*+*c#s                    </text>
+  <clipPath id="clip31">
+    <rect x="10" y="472.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="2.79s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="485.0" fill="#e8e2d4" clip-path="url(#clip31)" xml:space="preserve">                    .=-::--+#%%#ccssss#s#%%%%%%%%@%##s##*-=+*cscccc#%*                    </text>
+  <clipPath id="clip32">
+    <rect x="10" y="487.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="2.88s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="500.0" fill="#e8e2d4" clip-path="url(#clip32)" xml:space="preserve">                     =+----+s#%%%##c****c*ccssc**=-::-*c+=-=+*ccss#%%*`..                 </text>
+  <clipPath id="clip33">
+    <rect x="10" y="502.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="2.97s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="515.0" fill="#e8e2d4" clip-path="url(#clip33)" xml:space="preserve">                     .**+===*+=-==+++=-:--=*c**=:```:-=++==++*cs##%%c#@@@%s*=`            </text>
+  <clipPath id="clip34">
+    <rect x="10" y="517.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="3.06s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="530.0" fill="#e8e2d4" clip-path="url(#clip34)" xml:space="preserve">                      .cs*+++=-::::=+*css##ss*+-:::-==+++++*cc#%@@%c-c@@@@@@%%s+:.        </text>
+  <clipPath id="clip35">
+    <rect x="10" y="532.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="3.15s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="545.0" fill="#e8e2d4" clip-path="url(#clip35)" xml:space="preserve">                       .ssc*+==---===*c#%%%sc*+=-======++*cs#%%@@%c=-+%@@@@@%%%%s*`       </text>
+  <clipPath id="clip36">
+    <rect x="10" y="547.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="3.24s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="560.0" fill="#e8e2d4" clip-path="url(#clip36)" xml:space="preserve">                      ..:#%#c+=--==--:--*sc*=--::::::-=*cs#%@@@%s+===+#@@@@@@@%%#s*:      </text>
+  <clipPath id="clip37">
+    <rect x="10" y="562.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="3.33s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="575.0" fill="#e8e2d4" clip-path="url(#clip37)" xml:space="preserve">               ..`:-=+*ssc#%%s+=--::```:+s*++--:-----=cs%%@@@%#s*===+*%@@@@@@@%%#s*+`     </text>
+  <clipPath id="clip38">
+    <rect x="10" y="577.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="3.42s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="590.0" fill="#e8e2d4" clip-path="url(#clip38)" xml:space="preserve">            .:=+++=-:::-+s%###%s*******cs##sssccssccs#%@@@@%%#sc++++*#%@@@@@@@%#sc*+`     </text>
+  <clipPath id="clip39">
+    <rect x="10" y="592.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="3.51s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="605.0" fill="#e8e2d4" clip-path="url(#clip39)" xml:space="preserve">          .=*css####s*-`:`:++ss#@%%%%%%%%@@%%%%%%%%%@@@@%%%###sc*+*c#%@@@@@@@%%#c*+=-     </text>
+  <clipPath id="clip40">
+    <rect x="10" y="607.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="3.6s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="620.0" fill="#e8e2d4" clip-path="url(#clip40)" xml:space="preserve">        .`=-:--=*c#%%%##-`:+c+:+*@@@@@@@@@@@@@@@@@@@@@%%####sscc**s#%@@@@@@@%%#sc++=+`    </text>
+  <clipPath id="clip41">
+    <rect x="10" y="622.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="3.69s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="635.0" fill="#e8e2d4" clip-path="url(#clip41)" xml:space="preserve">       .-:`:-:`:``-+ss@@#+*c:-c=+%sc#%@@@@@@@@@@@@%%%####sscccccss%%@@@@@@%%##sc**+++=    </text>
+  <clipPath id="clip42">
+    <rect x="10" y="637.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="3.78s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="650.0" fill="#e8e2d4" clip-path="url(#clip42)" xml:space="preserve">      .cccs##**-`::`.-##+cc-:+s-c##::=*css#%%%%%%%%##sscc****ccs#%%@@@@@@%%%##sccc****`   </text>
+  <clipPath id="clip43">
+    <rect x="10" y="652.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="3.87s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="665.0" fill="#e8e2d4" clip-path="url(#clip43)" xml:space="preserve">     .+#s#%@##%scc-.`--+sc-==:*scs=`::-=++*c##%%%%#ssc*+++**cs##%%@@@@@##%##sssssssssc:   </text>
+  <clipPath id="clip44">
+    <rect x="10" y="667.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="3.96s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="680.0" fill="#e8e2d4" clip-path="url(#clip44)" xml:space="preserve">    .-*s**ccc%#c#%#*c--c*=*c:++s+`:++::-=*cs######sc++=++ccs##%%%@@@@sc##ssscccs#####c    </text>
+  <clipPath id="clip45">
+    <rect x="10" y="682.1" width="0" height="15.0">
+      <animate attributeName="width" from="0" to="696.6" dur="0.5s"
+               begin="4.05s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
+    </rect>
+  </clipPath>
+  <text x="10" y="695.0" fill="#e8e2d4" clip-path="url(#clip45)" xml:space="preserve">    -+*+-==:-=-*#%c#@#*=*#s=-+c=*s#%%+-=++**cssccc*=-==+*s##%%%%%%@#+c##sc***cs#%%%%+.    </text></svg>
