@@ -157,7 +157,7 @@
 <text x="725" y="770.0" text-anchor="end" class="stat" opacity="0">50
 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.3299999999999996s" fill="freeze"/></text>
 <text x="725" y="786.0" text-anchor="end" class="lbl" opacity="0">best week
-<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.3299999999999996s" fill="freeze"/></text><path d="M 28.0 844.2 L 64.7 846.0 L 101.4 846.0 L 138.1 846.0 L 174.7 843.2 L 211.4 844.2 L 248.1 846.0 L 284.8 832.2 L 321.5 846.0 L 358.2 839.6 L 394.8 830.4 L 431.5 829.4 L 468.2 835.9 L 504.9 839.6 L 541.6 820.2 L 578.3 800.9 L 614.9 841.4 L 651.6 838.6 L 688.3 846.0 L 725.0 800.0" fill="none" stroke="#e8e2d4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"
+<animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.3299999999999996s" fill="freeze"/></text><path d="M 28.0 846.0 L 64.7 846.0 L 101.4 846.0 L 138.1 843.2 L 174.7 844.2 L 211.4 846.0 L 248.1 832.2 L 284.8 846.0 L 321.5 839.6 L 358.2 830.4 L 394.8 829.4 L 431.5 835.9 L 468.2 839.6 L 504.9 820.2 L 541.6 800.9 L 578.3 841.4 L 614.9 838.6 L 651.6 846.0 L 688.3 800.0 L 725.0 846.0" fill="none" stroke="#e8e2d4" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"
   pathLength="1000" stroke-dasharray="1000" stroke-dashoffset="1000">
 <animate attributeName="stroke-dashoffset" from="1000" to="0" dur="0.9s" begin="3.53s" fill="freeze" calcMode="spline" keySplines="0.2 0 0.2 1"/>
 </path><text x="376.5" y="920" text-anchor="middle" class="link" opacity="0">github.com/AmiTtiwari43  ·  linkedin  ·  leetcode  ·  email
