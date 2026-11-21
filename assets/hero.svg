@@ -147,10 +147,10 @@
 <text x="28" y="715.0" fill="#e8e2d4" clip-path="url(#pc45)" xml:space="preserve">    -+*+-==:-=-*#%c#@#*=*#s=-+c=*s#%%+-=++**cssccc*=-==+*s##%%%%%%@#+c##sc***cs#%%%%+.    </text><clipPath id="bigwipe"><rect x="28" y="708.0" width="0" height="54">
 <animate attributeName="width" from="0" to="81" dur="0.5s" begin="3.03s" fill="freeze"/>
 </rect></clipPath>
-<text x="28" y="752.0" class="big" clip-path="url(#bigwipe)">484</text>
+<text x="28" y="752.0" class="big" clip-path="url(#bigwipe)">482</text>
 <text x="28" y="772.0" class="lbl" opacity="0">contributions in the last year
 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.3299999999999996s" fill="freeze"/>
-</text><text x="725" y="728.0" text-anchor="end" class="stat" opacity="0">86
+</text><text x="725" y="728.0" text-anchor="end" class="stat" opacity="0">85
 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.1799999999999997s" fill="freeze"/></text>
 <text x="725" y="744.0" text-anchor="end" class="lbl" opacity="0">active days
 <animate attributeName="opacity" from="0" to="1" dur="0.3s" begin="3.1799999999999997s" fill="freeze"/></text>
